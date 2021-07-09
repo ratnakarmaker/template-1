@@ -1,0 +1,100 @@
+.navbar-toggler {
+    border: 1px solid black !important;
+}
+.header {
+    padding: 20px 40px;
+    background: #0ef3f333;
+}
+
+.header img {
+    width: 200px;
+}
+
+.home {
+    font-size: 30px;
+    text-decoration: none;
+}
+
+.nav_menu .nav-link.active {
+    background: #fff;
+}
+
+.nav_menu .nav-link {
+    border: 1px solid #adb5bd;
+    border-radius: 15px;
+    text-align: center;
+    width: 15%;
+    color: red;
+    font-weight: 500;
+    font-size: 22px;
+}
+
+.heading {
+    text-align: center;
+    color: red;
+    font-weight: bold;
+}
+
+.card-img-top {
+    width: 80%;
+    padding: 20px;
+}
+
+.service-body {
+    background: #f5f5f5;
+    text-align: center;
+    height: 250px;
+    border-radius: 0 0 10px 10px;
+}
+.card-title {
+    font-weight: bold;
+}
+.card-text {
+    font-size: 22px;
+}
+
+/* Notice */
+
+.notice {
+    background: #f5f5f5;
+    padding: 20px 50px;
+    border-radius: 10px;
+}
+
+.notice ol li {
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.notice ol li p {
+    font-weight: 400;
+}
+
+/* Comment */
+.comment-card {
+    background: #0ef3f333;
+    width: 80%;
+    margin: 0 auto;
+}
+
+/* Contact */
+.social {
+    width: 60px;
+    border-radius: 12px;
+}
+
+/* Footer */
+.footer {
+    background: #040d4c;
+}
+
+.footer ul li a {
+    color: white;
+    text-decoration: none;
+}
+.footer ul li  {
+    list-style: none;
+}
+
+
+
